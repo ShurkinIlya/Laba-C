@@ -1,0 +1,4 @@
+kolya: Y
+ivan: N
+prosha: N
+igor: Y
